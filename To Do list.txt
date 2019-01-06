@@ -1,11 +1,11 @@
 To Do list Projet stat :
 Rédiger latex 
-1-a), 1-b)
-2-b),2-c)
+1-a), 1-b) Caro (juste à rédiger)
+2-b),2-c) Caro (juste à rédiger)
 
 Code R :
-2-d)
-3-a) , 3-b)
-4-b)
-5-a), 5-b)
-6)
+2-d) (il ne reste plus que le test à faire)
+3-b) Pierre
+4-b) Caro (fonction p valeur)
+5-a), 5-b) Caro (p-valeur)
+6) Pierre 
